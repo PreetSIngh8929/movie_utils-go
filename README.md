@@ -1,2 +1,2 @@
 # movie_utils-go
-utils loibrary for movie app
+error and logger shared library for movie app.
